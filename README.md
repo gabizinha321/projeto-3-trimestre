@@ -20,3 +20,20 @@ Modelo Do Professor
 </p>
 <h3>Que a Força esteja contigo!</h3>
 </center>
+
+
+<center><h1>Carreta Furacão</h1></center>
+<br>
+<br>
+<center><img src="fotos da equipe.jpg"</center>
+<br>
+<center>
+  <p>Somos estudantes de Pensamento Computacional do Colégio Estadual Do Campo Duque De Caxias em Antonio Olinto. E montamos uma equipe chamada Carreta Furacão.</p>
+  </center>
+  
+  <br>
+  <br>
+  <center>
+    Os integrantes do time Carreta Furacão são Líder: Ana Caroline, Organizadora: Jamili, Escriba: Cibeli e Rayssa, Apresentadora: Gabriele.<br>
+    </p>
+</center>
